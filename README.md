@@ -6,6 +6,8 @@ I'm Andrej, a Full Stack Software Developer and iO Academy alumni.
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: Feel free to drop me an [email](andrej.hagenmueller@gmail.com) or message me directly on [LinkedIn](https://www.linkedin.com/in/andrejhagenmueller/)
 
+![fa-crown](fa-crown.svg)
+
 <!--
 **ndrj19/ndrj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
