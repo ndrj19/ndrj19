@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Andrej, a Full Stack Software Developer and iO Academy alumni. 
 
-- 🔭 I’m currently working on a slow fashion fashion app with a virtual wardrobe using Flutter.
+- 🔭 I’m currently working on a slow fashion app with a virtual wardrobe using Flutter.
 - 🌱 I’m currently learning Express.js & Flutter/Dart
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: Feel free to drop me an [email](andrej.hagenmueller@gmail.com) or message me directly on [LinkedIn](https://www.linkedin.com/in/andrejhagenmueller/)
