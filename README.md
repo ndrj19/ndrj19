@@ -6,7 +6,19 @@ I'm Andrej, a Full Stack Software Developer and iO Academy alumni.
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: Feel free to drop me an [email](andrej.hagenmueller@gmail.com) or message me directly on [LinkedIn](https://www.linkedin.com/in/andrejhagenmueller/)
 
-![fa-crown](fa-crown.svg)
+### Languages & Tools
+<img src="assets/javascript-js.svg" width="50" height="50"><img src="assets/react-javascript-js-framework-facebook.svg" width="50" height="50">
+<img src="assets/git.svg" width="50" height="50">
+<img src="assets/file-type-html.svg" width="50" height="50">
+<img src="assets/file-type-css.svg" width="50" height="50">
+<img src="assets/file-type-node.svg" width="50" height="50">
+<img src="assets/mongodb-original-wordmark.svg" width="50" height="50">
+<img src="assets/file-type-php2.svg" width="60" height="60">
+<img src="assets/mysql-original-wordmark.svg" width="50" height="50">
+<img src="assets/flutter.svg" width="50" height="50">
+<img src="assets/dart.svg" width="50" height="50">
+<img src="assets/typescript-icon.svg" width="50" height="50">
+<img src="assets/database-amazon-redshift.svg" width="50" height="50">
 
 <!--
 **ndrj19/ndrj19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
