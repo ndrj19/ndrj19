@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Andrej, a Full Stack Software Developer and iO Academy alumni. 
+I'm Andrej, a Full Stack Software Developer specialising in **{React|PHP|Node.js|SQL}**
 
-- 🔭 I’m currently working on a slow fashion app with a virtual wardrobe using Flutter.
-- 🌱 I’m currently learning Express.js & Flutter/Dart
+- 🔭 I’m currently working on a Node Express API for "A Song Of Ice And Fire" character data
+- 🌱 I’m currently learning Express.js 
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: Feel free to drop me an [email](andrej.hagenmueller@gmail.com) or message me directly on [LinkedIn](https://www.linkedin.com/in/andrejhagenmueller/)
 
